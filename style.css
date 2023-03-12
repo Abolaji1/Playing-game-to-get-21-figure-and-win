@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 
+    'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.container {
+    margin: 0 auto;
+    text-align: center;
+    padding: 50px;
+    display: flex;
+    flex-wrap: wrap;
+   
+}
+
+.wrapper{
+    
+    width: 600px;
+    margin-left: 25%;
+    background: darkgreen;
+    text-align: center;
+    margin: 0 auto;
+    
+}
+button{
+    margin-bottom: 20px;
+    width: 150px;
+    border-radius: 10px;
+    align-items: center;
+    height: 30px;
+    background: yellow ;
+    font-family: Impact, Haettenschweiler,
+     'Arial Narrow Bold', sans-serif;
+    color: darkgreen; 
+   font-size: 15px;
+   letter-spacing: 2px;
+   padding-top: 5px;
+   padding-bottom: 5px;
+   border-style: none;
+    
+   
+}
+
+#h1wr {
+    padding: 20px;
+    color: yellow;
+
+}
+
+
+#p01, #cards, #sum {
+    color: #fff;
+    padding: 10px ;
+    font-size: 15px;
+    font-weight: 1000;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#players-el {
+    color: #fff;
+    font-size: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+
+}
